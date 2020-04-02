@@ -80,6 +80,7 @@ doesn't exist yet, so let's create it!
 In ``src/Controller``, create a new ``DefaultController`` class and an ``index``
 method inside::
 
+    <?php
     // src/Controller/DefaultController.php
     namespace App\Controller;
 
